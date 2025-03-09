@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 I am Reginald Ojunga🛠️.
 
-🩻🔬 Imaging 
-🦀 Rustacean
-🐍 Pythonista
+🩻🔬 Imaging  🦀 Rustacean  
+🐍 Pythonista  
 🤖🧠 AI/ML enthusiast
