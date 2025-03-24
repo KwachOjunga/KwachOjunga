@@ -19,4 +19,4 @@ I am Reginald Ojunga🛠️.
 🩻🔬 Imaging  
 🦀 Rustacean  
 🐍 Pythonista  
-🤖🧠 AI/ML enthusiast
+🤖🧠 AI/ML 
