@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🩻🔬 Imaging  
-🦀 Rustacean  
-🐍 Pythonista  
-🤖🧠 AI/ML 
+"That which i cannot create, i do not understand." Richard Feynman.
